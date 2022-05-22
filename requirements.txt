@@ -1,0 +1,8 @@
+flask
+pandas
+numpy
+flask_ngrok
+tensorflow
+keras
+sklearn
+h5py
